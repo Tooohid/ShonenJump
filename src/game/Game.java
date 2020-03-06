@@ -65,8 +65,7 @@ public class Game {
 
         view.addMouseListener(new MouseHandler(view));
 
-        this.controller = new CharMove(world.getPlayer());
-        frame.addKeyListener(controller);
+        frame.addKeyListener(new CharMove(world.getPlayer()));
 
         // uncomment to make the view track the bird
         world.addStepListener(new Tracking(view, world.getPlayer()));
@@ -94,11 +93,12 @@ public class Game {
         } else {
             level++;
 
+            Goku player1 = world.getPlayer();
+
             world = new Level2();
             // fill it with bodies
             world.populate(this);
             // switch the keyboard control to the new player
-            Goku player1 = world.getPlayer();
             controller.setBody(player1);
             // show the new world in the view
             view.setWorld(world);
