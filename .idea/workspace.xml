@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/CityEngine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShonenJump.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ShonenJump.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EventsDemo/META-INF/EventsDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShonenJump/META-INF/ShonenJump.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShonenJump/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShonenJump/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShonenJump/game/Level1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShonenJump/game/Level1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Level1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Level1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Level2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Level2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +30,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XNqoJRRXSfFIwvzXYUXPonR61N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548859572902" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BigWorldDemo" />
+    <property name="last_opened_file_path" value="E:/Tauhid/CityEngine40 (2)/CityEngine.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -36,18 +58,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DJhos\IN007\EventsDemo\data" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Game">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -106,6 +116,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -134,5 +156,62 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="810" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583519994612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583519994612" />
+    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1583520316307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583520316307" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1583521375608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583521375608" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1583521375608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583521375608" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1583521375608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583521375608" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1583521375608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583521375608" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1583521048806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583521048806" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center" timestamp="1583521048806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583521048806" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left" timestamp="1583521048805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583521048805" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right" timestamp="1583521048806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583521048806" />
+    <state x="441" y="94" key="SettingsEditor" timestamp="1583520322065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583520322065" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Game.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -14,6 +14,7 @@ public class Level2 extends GameLevel{
     private Goku avatar1;
     private Enemy Fr;
     private Background background;
+
     public void populate(Game game){
         super.populate(game);
         Shape groundShape = new BoxShape(HALF_WIDTH, 0.2f);
@@ -22,7 +23,6 @@ public class Level2 extends GameLevel{
 
         this.random = new Random();
 
-
         for (int i = 0; i < NUM_LEVELS; i++) {
             for (int n = 0; n < random.nextInt(MAX_PLATFORMS) + 1; n++) {
                 Body platform = new Platforms(this);
@@ -30,10 +30,6 @@ public class Level2 extends GameLevel{
                 platform.addCollisionListener(new CollectListener(avatar1));
             }
         }
-
-        // make a character
-        avatar1 = new Goku(this);
-        avatar1.setPosition(new Vec2(8, -6));
 
         for (int i=0; i<5; i++){
             Fr = new Enemy(this);
@@ -52,10 +48,6 @@ public class Level2 extends GameLevel{
     }
     public Enemy Fr(){
         return Fr;
-    }
-
-    public Goku getPlayer() {
-        return avatar1;
     }
 
     public Vec2 startPosition(){
